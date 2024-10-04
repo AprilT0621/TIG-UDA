@@ -1,2 +1,2 @@
 # TIG-UDA
-The codes will be release soon.
+The codes will be released soon.

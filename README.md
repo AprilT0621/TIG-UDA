@@ -1,6 +1,6 @@
 # TIG-UDA
 
-## <p align="center">TIG-UDA: Generative unsupervised domain adaptation with transformer-embedded invariance for cross-modality medical image segmentation
+## <p align="center">TIG-UDA: Generative unsupervised domain adaptation with Transformer-embedded invariance for cross-modality medical image segmentation
 
 <div align="center">
 

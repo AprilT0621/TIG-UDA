@@ -31,6 +31,10 @@ This code is implemented in **PyTorch**. Below are the key environment configura
 ```
 pip install -r requirements.txt
 ```
+Pretrained ViT
+Download the following models and put them in /ISTN/checkpoints:
+- [ViT-B_16](https://storage.cloud.google.com/vit_models/imagenet21k/ViT-B_16.npz?_ga=2.49067683.-40935391.1637977007) (ImageNet-21K)
+
 ## 🚀 Training Pipeline
 This repository is divided into two main components:
 - Step 1: Train the Image Style Translation Network (ISTN)
